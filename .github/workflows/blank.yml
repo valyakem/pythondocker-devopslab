@@ -1,5 +1,6 @@
 name: pythonlab CI to Docker Hub
 
+# start the pipelline with on tag
 on:
   push:
     tags:
