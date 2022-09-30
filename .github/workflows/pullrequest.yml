@@ -1,4 +1,4 @@
-name: pythonlab CI to Docker Hub
+name: pythonlab CI to pull request
 
 # start the pipelline with on tag
 on:
